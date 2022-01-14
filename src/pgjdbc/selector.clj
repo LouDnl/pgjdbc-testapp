@@ -20,7 +20,7 @@
 
 
 ;; Comment the next 4 lines if you want to be able to use the repl
-;; (mount/start)
-;; (do-search 20 0 "01-01-2015" "01-01-2015")
-;; (mount/stop)
-;; (System/exit 0)
+(mount/start)
+(do-search 20 0 "01-01-2015" "01-01-2015")
+(mount/stop)
+(System/exit 0)
