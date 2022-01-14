@@ -1,1 +1,1 @@
-Check out the how to in [how-to](docs/db-entries.md)
+Check out the how to in [how-to](docs/how-to.md)
